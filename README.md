@@ -13,10 +13,10 @@ SO THAT I can show employers my skills
 2. Open package.json in integrated terminal.
 3. Type 'npm run dev' in console.
 4. Enjoy!
-```s
+
 
 ## Link to website
 
-```md
+
 https://josephportfolioonline.netlify.app
 ```
