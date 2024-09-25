@@ -5,7 +5,7 @@ This is my code for a website portfolio that is hosted by netlify and made using
 ```md
 AS A programmer
 I WANT to make a website that hosts my porfolio
-SO THAT I can show employers my skills
+SO THAT I can show employers my skills and learn more about how to deploy applications to a live server
 ```
 ## Instructions
 ```md
